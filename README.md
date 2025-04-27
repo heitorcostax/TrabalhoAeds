@@ -92,11 +92,15 @@ O programa foi implementando seguindo as classes acima, sendo elas -> Animal; Co
 
 No diretório raiz do projeto, utilize o comando:
 
-```sh
-make r
+
+| Comando                |  Função                                                                                               |                     
+| -----------------------| ------------------------------------------------------------------------------------------------------|
+|  make clean          | Apaga a última compilação realizada contida na pasta build                                            |
+|  make                | Executa a compilação do programa utilizando o gcc, e o resultado vai para a pasta build               |
+|  make run            | Executa o programa da pasta build após a realização da compilação                                     |
+|make r| Faz os três processos descritos acima em apenas um comando|
 
 
-````
 
 ### 3. Execução
 
@@ -104,9 +108,7 @@ Após compilar e executar com o comando acima, o programa irá ler o arquivo de 
 
 ### Arquivo de Entrada (inputs/input.dat)
 
-![print de entrada](https://github.com/user-attachments/assets/456a62f8-af8a-4201-b870-0e6d82aa65b7)
-
-
+![priaiaiai](https://github.com/user-attachments/assets/47fdc8eb-281d-4b05-9ca2-23b864eb88ae)
 
 
 
@@ -114,7 +116,7 @@ Após compilar e executar com o comando acima, o programa irá ler o arquivo de 
 
 **Sem animal**
 
-![print de saida](https://github.com/user-attachments/assets/dbadaf53-db23-427c-a697-e6dc391b8607)
+![print saidaaa](https://github.com/user-attachments/assets/389a15d7-1467-487d-97bd-aef385a47940)
 
 
 **Com animal**
