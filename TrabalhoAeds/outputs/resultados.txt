@@ -1,0 +1,7 @@
+====== RESULTADOS DA SIMULACAO ======
+Iteracoes realizadas: 6
+Posição final do animal: (1, 4)
+Passos dados pelo animal: 3
+Água encontrada pelo animal: 0
+Animal sobreviveu!
+=====================================
